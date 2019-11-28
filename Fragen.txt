@@ -1,0 +1,2 @@
+Warum ist der Pfad de.hfu.NAME
+(mit hfu.NAME klapt es)
